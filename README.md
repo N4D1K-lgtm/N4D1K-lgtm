@@ -12,10 +12,10 @@
 
 <br>
 
-- I'm probably working on [Currently](https://www.github.com/CurrentlyInc) or [xrepo](https://github.com/N4D1K-lgtm/xrepo).
-- Attempting to learn [Rust](https://www.rust-lang.org)
-- Check out my [website](https://www.kidannelson.com)!
-- You can find my resume [here.](https://read.cv/kidan)
+- :electric_plug: I'm probably working on [Currently](https://www.github.com/CurrentlyInc) or [xrepo](https://github.com/N4D1K-lgtm/xrepo).
+- :skull: Attempting to learn [Rust](https://www.rust-lang.org)
+- :link: Check out my [website](https://www.kidannelson.com)!
+- :briefcase: You can find my resume [here.](https://read.cv/kidan)
 
 <br>
 
